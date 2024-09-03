@@ -1,39 +1,28 @@
 ---
-title: "7s Guidelines"
-date: "Freiburg Women*'s team (2024)"
+title: "Freiburg Women*'s team 7s Guidelines"
+date: "2024 The-best-of-all-guides™ by Christopher, Rémi, Rafa and Berit"
 output:
   html_document:
     theme: flatly
     highlight: tango
     toc: true
     toc_float: true
-    smooth_scroll: false
+    toc_depth: 3
     css: styles.css
   
 ---
 
-
-``` frc_to_do's
-THIS IS FOR RAFA ONLY
-to do's:
-[x] paste things from guide ("Playbook-v2") to obsidian
-[x] paste everything to R Markdown
-[x] fix formatting
-[] embbed base64-encoded images or embbed everything in the cloud
-[] create animated version of each call & record screen
-[] videos as base64-encoded
-```
-
-# Freiburg Women*'s team 7s Guidelines
 
 ![](team_placeholder.jpg)
 
 
 ## I. Intro: How to use this document
 
-Welcome to our the Freiburg Women*'s team 7s Guidelines! This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. This guide will be your go-to resource for learning and mastering our team’s 7s playstyle. We’ve structured the document to provide clear and comprehensive information, so you can easily find what you need. Let’s work together to build a strong, skilled team and enjoy every moment on the pitch!
+Welcome to our the Freiburg Women*'s team 7s Guidelines! This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. This guide will be our go-to resource for learning and mastering our team’s 7s playstyle. We’ve structured the document to provide clear and comprehensive information, so you can easily find what you need. This document is designed for internal use and for supporting our club so it shouldn't be shared without permission.
 
-Dynamite boom!!!!!
+Let’s work together to build a strong, skilled team and enjoy every moment on the pitch!
+
+Dynamite BOOM!!!!!
 
 
 ## II. Laws 
@@ -42,7 +31,8 @@ Here is a simplified guide with some basic information: (Anna's guide)
 
 A quick intro video https://www.youtube.com/watch?v=1e894rFZvqQ
 
-For detailed, in-depth information, download the "Rugby Laws" HERE. 
+For detailed, in-depth information, download the "Rugby Laws" HERE (copy links for iOS and Android https://www.world.rugby/the-game/laws/home) 
+
 
 ## III. Basics structure
 
@@ -79,27 +69,27 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 
 #### Calls in offense
 <details>
-  <summary> henry (hands) </summary>
+  <summary> *henry* (hands) </summary>
 		   ![](Pasted image 20240828125407.png)
 </details>
 
 <details>
-  <summary> paco (schere) </summary>
+  <summary> *paco* (schere) </summary>
 			![](Pasted image 20240828125439.png)
 </details>
 
 <details>
-  <summary> joster (Überpass) </summary>
+  <summary> *joster* (Überpass) </summary>
 		  ![](Pasted image 20240828125445.png)
 </details>
 
 <details>
-  <summary> louis (loop) </summary>
+  <summary> *louis* (loop) </summary>
 			![](Pasted image 20240828125452.png)
 </details>
 
 <details>
-  <summary> dobbie (double Schere/fake Schere) </summary>
+  <summary> *dobbie* (double Schere/fake Schere) </summary>
 			- four options
 				- 1st paco
 				- run in gap between D2 and D3
@@ -110,13 +100,13 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 </details>
 
 <details>
-  <summary> rot-weiß/weiß-rot  </summary>
+  <summary> *rot-weiß*/*weiß-rot*  </summary>
 			- weiß = links; rot = rechts
 			![](Pasted image 20240828125156.png)
 </details>
 
 <details>
-  <summary> peter (put away) </summary>
+  <summary> *peter* (put away) </summary>
 			- An offload in the tackle to a support player hitting the ball at pace is a simple but extremely effective way to break a defence. And the 'put-away' is effectively just this- an offload in the tackle with support - but where the offload and support is coordinated and not spontaneous. Most offloads happen in a game on impulse, when the ball carrier frees his arms in a tackle and has close support running on to the ball. The 'put-away' is a play that ensures both of these things happen from one simple call.
 			- The ball carrier must first identify which defender is marking him, and then let the inside player know his intention ('Hey, John, I'm going to put you away'). Remember the simple lesson of when the ball carrier runs right, space is created on the left and vice versa. In a 'put-away, the ball carrier identifies which defender is marking him, steps inside the defender, engaging him in a tackle, and then makes an immediate offload to a support runner hitting space outside. In a 'put-away, it is not necessary for the ball carrier to beat the defender outright, but just to get to his inside and stretch him enough to make any tackle a passive one, which allows the offload. The success of the offload will be determined by the quality of the run, and so the ball carrier must aim to be as dynamic as possible also maintain leg drive through contact and aim to offload.
 			
@@ -125,7 +115,7 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 </details>
 
 <details>
-  <summary> drecksau (run the short side of the scrum) </summary>
+  <summary> *drecksau* (run the short side of the scrum) </summary>
 			![](Pasted image 20240828170004.png)
 </details>
 
@@ -148,13 +138,13 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 		
 #### Calls in defense
 <details>
-  <summary> numbers </summary>
+  <summary> *numbers* </summary>
 			- this is a rushed defense bla bla bla
 			![](Pasted image 20240828123759.png)
 </details>
 
 <details>
-  <summary> schieben </summary>
+  <summary> *schieben* </summary>
 			- this is the slide defense bla bla
 			![](Pasted image 20240714215303.png)
 </details>
@@ -163,19 +153,19 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 
 ### Kick-offs
 <details>
-  <summary> our ball </summary>
+  <summary> we are kickin' </summary>
 		- calls
-			- "cover (rot/weiß)": deep kick
-			- "robber (rot/weiß)": short kick
+			- *cover (rot/weiß)*: deep kick
+			- *robber (rot/weiß)*: short kick
 			- examples:
-				- "robber rot" is a short kick to the right
-				- "cover rot" is a deep kick to the right
+				- *robber rot* is a short kick to the right
+				- *cover rot* is a deep kick to the right
 			- structure: 4 players on the side of a kick call
 			![[Pasted image 20240828130442.png]]
 </details>
 
 <details>
-  <summary> receiving the kick </summary>
+  <summary> we are receiving the kick </summary>
 		![](Pasted image 20240828130523.png)
 </details>
 
@@ -184,9 +174,25 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 ### Penalties
 
 
-## IV. Strategies for different cases
+## IV. Strategies for special cases
 what to do if we have a fast or strong team; sweeper or not; etc etc etc
 
 
 ## V. Glossary 
 page/table for all terminology/calls/etc
+
+
+
+
+
+
+``` frc_to_do's
+THIS IS FOR RAFA ONLY
+to do's:
+[x] paste things from guide ("Playbook-v2") to obsidian
+[x] paste everything to R Markdown
+[x] fix formatting
+[x] make it shareable
+[] create animated version of each call & record screen
+[] fix/add text everywhere
+```
