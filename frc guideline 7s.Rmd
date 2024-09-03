@@ -12,6 +12,7 @@ output:
   
 ---
 
+<!-- to do: find the comments everywhere! -->
 
 ![](team_placeholder.jpg)
 
@@ -46,10 +47,8 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 
 <details>
   <summary> Setup </summary>
-  
 
 ![](position_attack.png)
-![](position_attack2.png)
 </details>
 
 <details>
@@ -58,19 +57,26 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 			- link: calls "rot" or "weiß"
 			- attack pod: can call a play; looks for weaknesse
 	
-![](Pasted image 20240828124805.png)
+![](3-1.png)
 </details>
 
 <details>
   <summary> 2-2 split </summary>
 
- ![](Pasted image 20240828125000.png)
+![](2-2.png)
 </details>
 
 #### Calls in offense
+
+
 <details>
   <summary> *henry* (hands) </summary>
 		   ![](Pasted image 20240828125407.png)
+</details>
+
+<details>
+  <summary> *crash* (hands) </summary>
+		   ![](crash.png)
 </details>
 
 <details>
@@ -127,13 +133,23 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 #### Position on the field
 <details>
   <summary> Setup </summary>
-  - picture showing everyine in one line
+  
+  <!--add text-->
+
+![](position_defense.png)
 </details>
 		
 <details>
   <summary> Basics </summary>
-		- target inside shoulder
-		- other bla bla bla
+		- target inside shoulder 
+
+<!--explain why targetting inside shoulder-->
+		
+		- wing targets the outside shoulder
+		
+<!--explain why winger targets ousite shoulder-->
+
+		  ![](defense_shoulder_target.png)
 </details>
 		
 #### Calls in defense
@@ -148,6 +164,12 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 			- this is the slide defense bla bla
 			![](Pasted image 20240714215303.png)
 </details>
+
+#### Tackling
+
+Watch this video to see all the basics of tackling: https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=1
+ 
+<!--embed it here and add the description-->
 			
 </div>
 
@@ -170,29 +192,20 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 </details>
 
 ### Line-outs
+
 ### Scrum-downs
+
 ### Penalties
 
 
 ## IV. Strategies for special cases
-what to do if we have a fast or strong team; sweeper or not; etc etc etc
+![](under_construction.png)
+<!--make the under construction picture appear smaller-->
+<!--what to do if we have a fast or strong team; sweeper or not; etc etc etc-->
 
 
 ## V. Glossary 
-page/table for all terminology/calls/etc
+<!-- page/table for all terminology/calls/etc -->
 
 
-
-
-
-
-``` frc_to_do's
-THIS IS FOR RAFA ONLY
-to do's:
-[x] paste things from guide ("Playbook-v2") to obsidian
-[x] paste everything to R Markdown
-[x] fix formatting
-[x] make it shareable
-[] create animated version of each call & record screen
-[] fix/add text everywhere
 ```
