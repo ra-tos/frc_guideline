@@ -26,14 +26,34 @@ Let’s work together to build a strong, skilled team and enjoy every moment on 
 Dynamite BOOM!!!!!
 
 
-## II. Laws 
 
-Here is a simplified guide with some basic information: (Anna's guide) 
+<div class="tabset">
+## II. Laws 
+### A simple guide
+Here is a simplified guide with some basic information:
+
+  <object
+  type="application/pdf"
+  data= How_to_rugby.pdf
+  width="800"
+  height="300"
+  border="pixels"
+  >
+  </object>
+
+<div> &nbsp; <!--this is a space--></div>
+
+### Intro video
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=1e894rFZvqQ">
+</iframe>
 
 A quick intro video https://www.youtube.com/watch?v=1e894rFZvqQ
 
-For detailed, in-depth information, download the "Rugby Laws" HERE (copy links for iOS and Android https://www.world.rugby/the-game/laws/home) 
+### Detailed info
+For detailed, in-depth information, download the Rugby Laws App HERE (copy links for iOS and Android https://www.world.rugby/the-game/laws/home) 
 
+</div>
 
 ## III. Basics structure
 
@@ -46,28 +66,30 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 #### Position on the field
 
 <details>
-  <summary> Setup </summary>
+  <summary><b> Setup for Offense </b></summary>
+
+When attacking, players should stand in a "V" shape formation and try to maximize space in the field to stretch the defense and to help the team find or create gaps.
+
 
 ![](position_attack.png)
 </details>
 
 <details>
-  <summary> 3-1 split </summary>
+  <summary><b> 3-1 split </b></summary>
 - When the player at first position takes the ball into contact, the link and centre are the players usually expected to support the attack. This leaves a complete 3-player attacking unit on one side of the field, and just one player, usually the wing, on the other side of the field. An attack on first creates a valuable 3-1 split field. The halfback can either pass to the 3-player attacking unit on one side of the ruck, or run the ball towards the wing on the other side. On the halfback's approach to the ruck, both he and the wing should be looking to see if there is an opportunity to join forces for an easy 2 v 1
-			- link: calls "rot" or "weiß"
-			- attack pod: can call a play; looks for weaknesse
+- link: can call "rot" or "weiß"
+- attack pod: can call a play; looks for weaknesse
 	
 ![](3-1.png)
 </details>
 
 <details>
-  <summary> 2-2 split </summary>
+  <summary><b> 2-2 split </b></summary>
 
 ![](2-2.png)
 </details>
 
 #### Calls in offense
-
 
 <details>
   <summary> *henry* (hands) </summary>
@@ -132,22 +154,21 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 ### Defense
 #### Position on the field
 <details>
-  <summary> Setup </summary>
+  <summary><b> Setup for Defense </b></summary>
   
-  <!--add text-->
+When defending, our team should a straight line across the field. All seven players should stand side by side with no gaps between them. This way, you cover the entire width of the field and make it harder for the other team to break through. As the other team attacks, you move up together in your line, staying close to each other and communicating to make sure no one slips through. The goal is to keep the attackers in front of you, block their progress, and try to force a mistake so you can win the ball back.
 
 ![](position_defense.png)
 </details>
 		
 <details>
-  <summary> Basics </summary>
-		- target inside shoulder 
+  <summary><b> Basics of Defense </b></summary>
 
-<!--explain why targetting inside shoulder-->
+Most players should target the inside shoulder:
+In defense, aiming for the inside shoulder of the ball carrier helps guide them toward the sideline, limiting their options and making it easier to tackle or force them out of play. This also prevents the attacker from cutting back inside, which could break the defensive line.
 		
-		- wing targets the outside shoulder
-		
-<!--explain why winger targets ousite shoulder-->
+But the wing should target the outside shoulder:
+By focusing on the outside shoulder, the winger can guide the attacker back towards the center of the field, where there are more defenders to help make the tackle. This approach also reduces the risk of the attacker breaking free along the wing, which is often the fastest route to the try line.
 
 		  ![](defense_shoulder_target.png)
 </details>
@@ -167,29 +188,54 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 
 #### Tackling
 
-Watch this video to see all the basics of tackling: https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=1
+Watch this video to learn all the basics of tackling: https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=1
  
 <!--embed it here and add the description-->
 			
 </div>
 
+<div class="tabset">
 ### Kick-offs
+#### We are kickin'
+
+</details>
+		
 <details>
-  <summary> we are kickin' </summary>
-		- calls
-			- *cover (rot/weiß)*: deep kick
-			- *robber (rot/weiß)*: short kick
-			- examples:
-				- *robber rot* is a short kick to the right
-				- *cover rot* is a deep kick to the right
-			- structure: 4 players on the side of a kick call
-			![[Pasted image 20240828130442.png]]
+  <summary><b> Setup for a Kick-off </b></summary>
+  
+<!--picture showing the set up-->
+
+- 4 players on the side of a kick call 
+  
 </details>
 
 <details>
-  <summary> we are receiving the kick </summary>
+  <summary><b> Calls </b></summary>
+
+- *cover (rot/weiß)*: deep kick
+- *robber (rot/weiß)*: short kick
+
+So: If kicker calls *robber rot*, the expected result is a short kick to the right. If the kicker calls *cover rot*, the expected result is a deep kick to the right
+	
+</details>
+
+
+#### We are receiving the kick
+
+<details>
+  <summary><b> Setup for Receiving a Kick-off </b></summary>
+  
 		![](Pasted image 20240828130523.png)
 </details>
+
+<details>
+  <summary><b> You caught the ball now what? </b></summary>
+  
+<!--text explaining our strategies on what to do when players in all positions receive the ball-->
+  
+</details>
+
+</div>
 
 ### Line-outs
 
@@ -202,6 +248,7 @@ Watch this video to see all the basics of tackling: https://www.youtube.com/watc
 ![](under_construction.png)
 <!--make the under construction picture appear smaller-->
 <!--what to do if we have a fast or strong team; sweeper or not; etc etc etc-->
+<!--add as a picture "signature" with "St. Gallen 2024"-->
 
 
 ## V. Glossary 
