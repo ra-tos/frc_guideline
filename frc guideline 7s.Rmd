@@ -12,7 +12,23 @@ output:
   
 ---
 
-<!-- to do: find the comments everywhere! -->
+<!-- to do: 
+
+* find the comments everywhere!
+* find out how to host this in github pages  https://pages.github.com/
+* find out how to password protect it (one page with a picture of the players in front of the door wiht angry faces "say the mighty password or you shall not pass", when the password is correct, a similar picture but with the open door and friendly faces saying "that was correct! Dig right in" where you can click and go to the guidelines)
+* videos in tactic board for all calls
+* videos online for some of the calls
+* re-do pictures (setup, 2-2-, 3-1) with bigger text and reduce web scale
+
+* part 2? 
+## V. TITLE
+### If you have a menstrual period
+### What to pack for a tournment
+### What to do about your piercings
+### Trans women, non-binary, agender and intersex folks welcome
+
+-->
 
 ![](team_placeholder.jpg)
 
@@ -29,29 +45,56 @@ Dynamite BOOM!!!!!
 
 <div class="tabset">
 ## II. Laws 
-### A simple guide
-Here is a simplified guide with some basic information:
+### Simplified guide
 
-  <object
-  type="application/pdf"
-  data= How_to_rugby.pdf
-  width="800"
-  height="300"
-  border="pixels"
-  >
-  </object>
+Here is a simplified guide with some basic information created by one of our teammates:
+
+<object
+type="application/pdf"
+data= How_to_rugby.pdf
+width="800"
+height="300"
+border="pixels"
+>
+</object>
 
 <div> &nbsp; <!--this is a space--></div>
 
-### Intro video
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=1e894rFZvqQ">
-</iframe>
+### Intro to 7s
 
-A quick intro video https://www.youtube.com/watch?v=1e894rFZvqQ
+Watch <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">this video</a> (2:30 minutes) for a very quick 101 guide to Rugby Sevens
+<div> &nbsp; <!--this is a space--></div>
+<center>
+<a href="https://www.youtube.com/watch?v=1e894rFZvqQ">
+<img src="this_is_rugby_sevens.png" width="75%" height="75%">
+</a>
+</center>
 
-### Detailed info
-For detailed, in-depth information, download the Rugby Laws App HERE (copy links for iOS and Android https://www.world.rugby/the-game/laws/home) 
+### Cool app
+Download the Rugby Laws App for free if you got curious and want more detailed, in-depth information. 
+
+<center>
+<a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">iOS</a>
+<a href="https://apps.apple.com/ie/app/world-rugby-laws-of-rugby/id403213587">
+<img src="world_rugby_app.png" width="7%" height="7%">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp; is an empty space character -->
+<a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">Android</a> <a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">
+<img src="world_rugby_app.png" width="7%" height="7%">
+</a>
+</center>
+
+<div> &nbsp; <!--this is a space--></div>
+
+In the app, among other cool resources, you can find a list of all <b>rugby laws</b> explained with images and videos, a list of <b>definitions</b> with lots of rugby terms such as "lineout", "scrum" or "maul", or a very clear list of <b>referee signals</b> used by the refs during the games with videos and explanation.
+
+
+<img src="wr_laws_tackle.jpg" width="30%" height="30%">
+&nbsp;<!--&nbsp; is an empty space character -->
+<img src="wr_definitions.jpg" width="30%" height="30%">
+&nbsp;<!--&nbsp; is an empty space character -->
+<img src="wr_ref_signals.jpg" width="30%" height="30%">
+
 
 </div>
 
@@ -188,7 +231,13 @@ By focusing on the outside shoulder, the winger can guide the attacker back towa
 
 #### Tackling
 
-Watch this video to learn all the basics of tackling: https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=1
+Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=2">How to Rugby Tackle</a> (6:45 minutes) for a quick 101 guide to tackling.
+<div> &nbsp; <!--this is a space--></div>
+<center>
+<a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=2">
+<img src="how_to_tackle.png" width="75%" height="75%">
+</a>
+</center>
  
 <!--embed it here and add the description-->
 			
@@ -250,9 +299,9 @@ So: If kicker calls *robber rot*, the expected result is a short kick to the rig
 <!--what to do if we have a fast or strong team; sweeper or not; etc etc etc-->
 <!--add as a picture "signature" with "St. Gallen 2024"-->
 
-
 ## V. Glossary 
 <!-- page/table for all terminology/calls/etc -->
 
 
-```
+
+
