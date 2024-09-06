@@ -28,9 +28,11 @@ output:
 ### What to do about your piercings
 ### Trans women, non-binary, agender and intersex folks welcome
 
+* for github pages: https://github.com/hackclub/ai-safety-dance
+
 -->
 
-![](team_placeholder.jpg)
+![](img/team_placeholder.jpg)
 
 
 ## I. Intro: How to use this document
@@ -51,7 +53,7 @@ Here is a simplified guide with some basic information created by one of our tea
 
 <object
 type="application/pdf"
-data= How_to_rugby.pdf
+data= "img/How_to_rugby.pdf"
 width="800"
 height="300"
 border="pixels"
@@ -66,7 +68,7 @@ Watch <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">this video</a> (2:30
 <div> &nbsp; <!--this is a space--></div>
 <center>
 <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">
-<img src="this_is_rugby_sevens.png" width="75%" height="75%">
+<img src="img/this_is_rugby_sevens.png" width="75%" height="75%">
 </a>
 </center>
 
@@ -114,7 +116,7 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 When attacking, players should stand in a "V" shape formation and try to maximize space in the field to stretch the defense and to help the team find or create gaps.
 
 
-![](position_attack.png)
+![](img/position_attack.png)
 </details>
 
 <details>
@@ -123,40 +125,40 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 - link: can call "rot" or "weiß"
 - attack pod: can call a play; looks for weaknesse
 	
-![](3-1.png)
+![](img/3-1.png)
 </details>
 
 <details>
   <summary><b> 2-2 split </b></summary>
 
-![](2-2.png)
+![](img/2-2.png)
 </details>
 
 #### Calls in offense
 
 <details>
   <summary> *henry* (hands) </summary>
-		   ![](Pasted image 20240828125407.png)
+		   ![](img/Pasted image 20240828125407.png)
 </details>
 
 <details>
   <summary> *crash* (hands) </summary>
-		   ![](crash.png)
+		   ![](img/crash.png)
 </details>
 
 <details>
   <summary> *paco* (schere) </summary>
-			![](Pasted image 20240828125439.png)
+			![](img/Pasted image 20240828125439.png)
 </details>
 
 <details>
   <summary> *joster* (Überpass) </summary>
-		  ![](Pasted image 20240828125445.png)
+		  ![](img/Pasted image 20240828125445.png)
 </details>
 
 <details>
   <summary> *louis* (loop) </summary>
-			![](Pasted image 20240828125452.png)
+			![](img/Pasted image 20240828125452.png)
 </details>
 
 <details>
@@ -166,14 +168,14 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 				- run in gap between D2 and D3
 				- 2nd paco
 				- run ousite D3
-			![](Pasted image 20240828125515.png)
-			![](Pasted image 20240828125610.png)
+			![](img/Pasted image 20240828125515.png)
+			![](img/Pasted image 20240828125610.png)
 </details>
 
 <details>
   <summary> *rot-weiß*/*weiß-rot*  </summary>
 			- weiß = links; rot = rechts
-			![](Pasted image 20240828125156.png)
+			![](img/Pasted image 20240828125156.png)
 </details>
 
 <details>
@@ -181,13 +183,13 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 			- An offload in the tackle to a support player hitting the ball at pace is a simple but extremely effective way to break a defence. And the 'put-away' is effectively just this- an offload in the tackle with support - but where the offload and support is coordinated and not spontaneous. Most offloads happen in a game on impulse, when the ball carrier frees his arms in a tackle and has close support running on to the ball. The 'put-away' is a play that ensures both of these things happen from one simple call.
 			- The ball carrier must first identify which defender is marking him, and then let the inside player know his intention ('Hey, John, I'm going to put you away'). Remember the simple lesson of when the ball carrier runs right, space is created on the left and vice versa. In a 'put-away, the ball carrier identifies which defender is marking him, steps inside the defender, engaging him in a tackle, and then makes an immediate offload to a support runner hitting space outside. In a 'put-away, it is not necessary for the ball carrier to beat the defender outright, but just to get to his inside and stretch him enough to make any tackle a passive one, which allows the offload. The success of the offload will be determined by the quality of the run, and so the ball carrier must aim to be as dynamic as possible also maintain leg drive through contact and aim to offload.
 			
-			![](Pasted image 20240828130042.png)
+			![](img/Pasted image 20240828130042.png)
 		
 </details>
 
 <details>
   <summary> *drecksau* (run the short side of the scrum) </summary>
-			![](Pasted image 20240828170004.png)
+			![](img/Pasted image 20240828170004.png)
 </details>
 
 </div>
@@ -201,7 +203,7 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
   
 When defending, our team should a straight line across the field. All seven players should stand side by side with no gaps between them. This way, you cover the entire width of the field and make it harder for the other team to break through. As the other team attacks, you move up together in your line, staying close to each other and communicating to make sure no one slips through. The goal is to keep the attackers in front of you, block their progress, and try to force a mistake so you can win the ball back.
 
-![](position_defense.png)
+![](img/position_defense.png)
 </details>
 		
 <details>
@@ -213,20 +215,20 @@ In defense, aiming for the inside shoulder of the ball carrier helps guide them 
 But the wing should target the outside shoulder:
 By focusing on the outside shoulder, the winger can guide the attacker back towards the center of the field, where there are more defenders to help make the tackle. This approach also reduces the risk of the attacker breaking free along the wing, which is often the fastest route to the try line.
 
-		  ![](defense_shoulder_target.png)
+		  ![](img/defense_shoulder_target.png)
 </details>
 		
 #### Calls in defense
 <details>
   <summary> *numbers* </summary>
 			- this is a rushed defense bla bla bla
-			![](Pasted image 20240828123759.png)
+			![](img/Pasted image 20240828123759.png)
 </details>
 
 <details>
   <summary> *schieben* </summary>
 			- this is the slide defense bla bla
-			![](Pasted image 20240714215303.png)
+			![](img/Pasted image 20240714215303.png)
 </details>
 
 #### Tackling
@@ -235,7 +237,7 @@ Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6
 <div> &nbsp; <!--this is a space--></div>
 <center>
 <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=2">
-<img src="how_to_tackle.png" width="75%" height="75%">
+<img src="img/how_to_tackle.png" width="75%" height="75%">
 </a>
 </center>
  
@@ -274,7 +276,7 @@ So: If kicker calls *robber rot*, the expected result is a short kick to the rig
 <details>
   <summary><b> Setup for Receiving a Kick-off </b></summary>
   
-		![](Pasted image 20240828130523.png)
+		![](img/Pasted image 20240828130523.png)
 </details>
 
 <details>
@@ -294,7 +296,7 @@ So: If kicker calls *robber rot*, the expected result is a short kick to the rig
 
 
 ## IV. Strategies for special cases
-![](under_construction.png)
+![](img/under_construction.png)
 <!--make the under construction picture appear smaller-->
 <!--what to do if we have a fast or strong team; sweeper or not; etc etc etc-->
 <!--add as a picture "signature" with "St. Gallen 2024"-->
