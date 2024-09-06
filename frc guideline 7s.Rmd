@@ -59,7 +59,6 @@ type="application/pdf"
 data= "img/How_to_rugby.pdf"
 width="800"
 height="300"
-border="pixels"
 >
 </object>
 
