@@ -14,6 +14,9 @@ output:
 
 <!-- to do: 
 
+* look into errors
+  - [WARNING] Could not fetch resource styles.css
+  - [WARNING] Div at frc-guideline-7s.knit.md line 107 column 1 unclosed at frc-guideline-7s.knit.md line 321 column 1, closing implicitly.
 * find the comments everywhere!
 * find out how to host this in github pages  https://pages.github.com/
 * find out how to password protect it (one page with a picture of the players in front of the door wiht angry faces "say the mighty password or you shall not pass", when the password is correct, a similar picture but with the open door and friendly faces saying "that was correct! Dig right in" where you can click and go to the guidelines)
@@ -66,6 +69,7 @@ border="pixels"
 
 Watch <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">this video</a> (2:30 minutes) for a very quick 101 guide to Rugby Sevens
 <div> &nbsp; <!--this is a space--></div>
+
 <center>
 <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">
 <img src="img/this_is_rugby_sevens.png" width="75%" height="75%">
@@ -78,11 +82,11 @@ Download the Rugby Laws App for free if you got curious and want more detailed, 
 <center>
 <a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">iOS</a>
 <a href="https://apps.apple.com/ie/app/world-rugby-laws-of-rugby/id403213587">
-<img src="world_rugby_app.png" width="7%" height="7%">
+<img src="img/world_rugby_app.png" width="7%" height="7%">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp; is an empty space character -->
 <a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">Android</a> <a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">
-<img src="world_rugby_app.png" width="7%" height="7%">
+<img src="img/world_rugby_app.png" width="7%" height="7%">
 </a>
 </center>
 
@@ -91,11 +95,11 @@ Download the Rugby Laws App for free if you got curious and want more detailed, 
 In the app, among other cool resources, you can find a list of all <b>rugby laws</b> explained with images and videos, a list of <b>definitions</b> with lots of rugby terms such as "lineout", "scrum" or "maul", or a very clear list of <b>referee signals</b> used by the refs during the games with videos and explanation.
 
 
-<img src="wr_laws_tackle.jpg" width="30%" height="30%">
+<img src="img/wr_laws_tackle.jpg" width="30%" height="30%">
 &nbsp;<!--&nbsp; is an empty space character -->
-<img src="wr_definitions.jpg" width="30%" height="30%">
+<img src="img/wr_definitions.jpg" width="30%" height="30%">
 &nbsp;<!--&nbsp; is an empty space character -->
-<img src="wr_ref_signals.jpg" width="30%" height="30%">
+<img src="img/wr_ref_signals.jpg" width="30%" height="30%">
 
 
 </div>
@@ -106,17 +110,14 @@ In this section, we’ll outline our team's basic structure and strategies, cove
 
 <div class="tabset">
 
-### Offense
-
+### Offense {.tabset}
 #### Position on the field
 
 <details>
   <summary><b> Setup for Offense </b></summary>
-
+  
 When attacking, players should stand in a "V" shape formation and try to maximize space in the field to stretch the defense and to help the team find or create gaps.
-
-
-![](img/position_attack.png)
+  ![](img/position_attack.png)
 </details>
 
 <details>
@@ -138,12 +139,16 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 
 <details>
   <summary> *henry* (hands) </summary>
-		   ![](img/Pasted image 20240828125407.png)
+<video width="80%" height="80%" controls>
+  <source src="media/Henry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+            
 </details>
 
 <details>
   <summary> *crash* (hands) </summary>
-		   ![](img/crash.png)
+
 </details>
 
 <details>
@@ -168,34 +173,31 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 				- run in gap between D2 and D3
 				- 2nd paco
 				- run ousite D3
-			![](img/Pasted image 20240828125515.png)
-			![](img/Pasted image 20240828125610.png)
+
 </details>
 
 <details>
   <summary> *rot-weiß*/*weiß-rot*  </summary>
 			- weiß = links; rot = rechts
-			![](img/Pasted image 20240828125156.png)
+
 </details>
 
 <details>
   <summary> *peter* (put away) </summary>
 			- An offload in the tackle to a support player hitting the ball at pace is a simple but extremely effective way to break a defence. And the 'put-away' is effectively just this- an offload in the tackle with support - but where the offload and support is coordinated and not spontaneous. Most offloads happen in a game on impulse, when the ball carrier frees his arms in a tackle and has close support running on to the ball. The 'put-away' is a play that ensures both of these things happen from one simple call.
 			- The ball carrier must first identify which defender is marking him, and then let the inside player know his intention ('Hey, John, I'm going to put you away'). Remember the simple lesson of when the ball carrier runs right, space is created on the left and vice versa. In a 'put-away, the ball carrier identifies which defender is marking him, steps inside the defender, engaging him in a tackle, and then makes an immediate offload to a support runner hitting space outside. In a 'put-away, it is not necessary for the ball carrier to beat the defender outright, but just to get to his inside and stretch him enough to make any tackle a passive one, which allows the offload. The success of the offload will be determined by the quality of the run, and so the ball carrier must aim to be as dynamic as possible also maintain leg drive through contact and aim to offload.
-			
-			![](img/Pasted image 20240828130042.png)
-		
 </details>
 
 <details>
   <summary> *drecksau* (run the short side of the scrum) </summary>
-			![](img/Pasted image 20240828170004.png)
 </details>
 
 </div>
 
-<div class="tabset">
 
+
+
+<div class="tabset">
 ### Defense
 #### Position on the field
 <details>
