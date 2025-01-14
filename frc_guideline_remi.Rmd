@@ -42,13 +42,11 @@ output:
 
 ## I. Intro: How to use this document
 
-Welcome to our the Freiburg Women*'s team 7s Guidelines! This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. This guide will be our go-to resource for learning and mastering our team’s 7s playstyle. We’ve structured the document to provide clear and comprehensive information, so you can easily find what you need. This document is designed for internal use and for supporting our club so it shouldn't be shared without permission.
+Well, hello, you absolutely gorgeous and fierce rugger from the single best rugby team in the world. 
 
-Let’s work together to build a strong, skilled team and enjoy every moment on the pitch!
+This is the Freiburg Women*'s team 7s Guidelines. This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. Enjoy!
 
-Dynamite BOOM!!!!!
-
-
+Obligatory P.S.: This document is designed for internal use so it shouldn't be shared without permission.
 
 <div class="tabset">
 ## II. Laws 
@@ -98,9 +96,6 @@ In the app, among other cool resources, you can find a list of all <b>rugby laws
 </div>
 
 ## III. Basics structure
-
-In this section, we’ll outline our team's basic structure and strategies, covering crucial aspects such as defense, attack, lineouts, kick-offs, and penalties. Each area will be discussed in detail to ensure everyone knows their role and how we approach different game scenarios. At the end of this section, you’ll find a table of contents with key terminology and a list of common calls used during matches.
-
 
 ### Offense {.tabset}
 #### Position on the field
@@ -264,6 +259,8 @@ Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6
 ## V. Glossary 
 <!-- page/table for all terminology/calls/etc -->
 
+## V. Tournment Orga Guideline
 
+Are you responsible for organizing the next tournment? Here is the <a href="media/tournment_orga.html" target="_blank">guidelines for the tournment organization</a>. Thanks for doing it!
 
 
