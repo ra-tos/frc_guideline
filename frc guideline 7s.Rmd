@@ -23,10 +23,15 @@ output:
 * videos in tactic board for all calls
 * videos online for some of the calls
 * re-do pictures (setup, 2-2-, 3-1) with bigger text and reduce web scale
+* in the special cases: more "advanced" instructions such as "what to do if the ball rolls into our try line and you can reach it
+* add a tab for rucking in the defense
+* anna's guide text onto the html
+* scrum: what should the hooker do, what cant the props do (is there a new rule that props cant hook?)
 
 * part 2? 
 ## V. TITLE
 ### If you have a menstrual period
+##### Zyklusbasiertes Training https://www.youtube.com/watch?v=iEvbOQXdYAE
 ### What to pack for a tournment
 ### What to do about your piercings
 ### Trans women, non-binary, agender and intersex folks welcome

@@ -1,0 +1,325 @@
+---
+title: "Freiburg Women*'s team 7s Guidelines"
+date: "2024 The-best-of-all-guides™ by Christopher, Rémi, Rafa and Berit"
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    css: styles.css
+  
+---
+
+<!-- to do: 
+
+* look into errors
+  - [WARNING] Could not fetch resource styles.css
+  - [WARNING] Div at frc-guideline-7s.knit.md line 107 column 1 unclosed at frc-guideline-7s.knit.md line 321 column 1, closing implicitly.
+* find the comments everywhere!
+* find out how to host this in github pages  https://pages.github.com/
+* find out how to password protect it (one page with a picture of the players in front of the door wiht angry faces "say the mighty password or you shall not pass", when the password is correct, a similar picture but with the open door and friendly faces saying "that was correct! Dig right in" where you can click and go to the guidelines)
+* videos in tactic board for all calls
+* videos online for some of the calls
+* re-do pictures (setup, 2-2-, 3-1) with bigger text and reduce web scale
+* in the special cases: more "advanced" instructions such as "what to do if the ball rolls into our try line and you can reach it
+* add a tab for rucking in the defense
+* anna's guide text onto the html
+* scrum: what should the hooker do, what cant the props do (is there a new rule that props cant hook?)
+
+* part 2? 
+## V. TITLE
+### If you have a menstrual period
+##### Zyklusbasiertes Training https://www.youtube.com/watch?v=iEvbOQXdYAE
+### What to pack for a tournment
+### What to do about your piercings
+### Trans women, non-binary, agender and intersex folks welcome
+
+* for github pages: https://github.com/hackclub/ai-safety-dance
+
+-->
+
+![](img/team_placeholder.jpg)
+
+
+## I. Intro: How to use this document
+
+Welcome to our the Freiburg Women*'s team 7s Guidelines! This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. This guide will be our go-to resource for learning and mastering our team’s 7s playstyle. We’ve structured the document to provide clear and comprehensive information, so you can easily find what you need. This document is designed for internal use and for supporting our club so it shouldn't be shared without permission.
+
+Let’s work together to build a strong, skilled team and enjoy every moment on the pitch!
+
+Dynamite BOOM!!!!!
+
+
+
+<div class="tabset">
+## II. Laws 
+### Simplified guide
+
+Here is a simplified guide with some basic information created by one of our teammates:
+
+<object
+type="application/pdf"
+data= "img/How_to_rugby.pdf"
+width="800"
+height="300"
+>
+</object>
+
+<div> &nbsp; <!--this is a space--></div>
+
+### Intro to 7s
+
+Watch <a href="https://www.youtube.com/watch?v=1e894rFZvqQ">this video</a> (2:30 minutes) for a very quick 101 guide to Rugby Sevens
+<div> &nbsp; <!--this is a space--></div>
+
+<center>
+<a href="https://www.youtube.com/watch?v=1e894rFZvqQ">
+<img src="img/this_is_rugby_sevens.png" width="75%" height="75%">
+</a>
+</center>
+
+### Cool app
+Download the Rugby Laws App for free if you got curious and want more detailed, in-depth information. 
+
+<center>
+<a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">iOS</a>
+<a href="https://apps.apple.com/ie/app/world-rugby-laws-of-rugby/id403213587">
+<img src="img/world_rugby_app.png" width="7%" height="7%">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp; is an empty space character -->
+<a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">Android</a> <a href="https://play.google.com/store/apps/details?id=org.worldrugby.lawsofrugby&hl=en_GB">
+<img src="img/world_rugby_app.png" width="7%" height="7%">
+</a>
+</center>
+
+<div> &nbsp; <!--this is a space--></div>
+
+In the app, among other cool resources, you can find a list of all <b>rugby laws</b> explained with images and videos, a list of <b>definitions</b> with lots of rugby terms such as "lineout", "scrum" or "maul", or a very clear list of <b>referee signals</b> used by the refs during the games with videos and explanation.
+
+
+<img src="img/wr_laws_tackle.jpg" width="30%" height="30%">
+&nbsp;<!--&nbsp; is an empty space character -->
+<img src="img/wr_definitions.jpg" width="30%" height="30%">
+&nbsp;<!--&nbsp; is an empty space character -->
+<img src="img/wr_ref_signals.jpg" width="30%" height="30%">
+
+
+</div>
+
+## III. Basics structure
+
+In this section, we’ll outline our team's basic structure and strategies, covering crucial aspects such as defense, attack, lineouts, kick-offs, and penalties. Each area will be discussed in detail to ensure everyone knows their role and how we approach different game scenarios. At the end of this section, you’ll find a table of contents with key terminology and a list of common calls used during matches.
+
+
+
+### Offense
+#### Position on the field
+
+<details>
+  <summary><b> Setup for Offense </b></summary>
+
+When attacking, players should stand in a "V" shape formation and try to maximize space in the field to stretch the defense and to help the team find or create gaps.
+  ![](img/position_attack.png)
+</details>
+
+
+<details>
+  <summary><b> Rucking with the winger </b></summary>
+	
+![](img/rucking_with_winger.png)
+</details>
+
+<details>
+  <summary><b> Rucking without the winger </b></summary>
+
+![](img/rucking_without_winger.png)
+</details>
+
+
+#### Calls in offense
+
+<details>
+  <summary> *henry* (hands) </summary>
+<video width="80%" height="80%" controls>
+  <source src="media/Henry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+            
+</details>
+
+<details>
+  <summary> *crash* (hands) </summary>
+  <video width="80%" height="80%" controls>
+  <source src="media/Crash.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</details>
+
+<details>
+  <summary> *paco* (schere) </summary>
+  <video width="80%" height="80%" controls>
+  <source src="media/Paco.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+			
+</details>
+
+<details>
+  <summary> *joster* (Überpass) </summary>
+  <video width="80%" height="80%" controls>
+  <source src="media/Joster.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+		  
+</details>
+
+<details>
+  <summary> *louis* (loop) </summary>
+	<video width="80%" height="80%" controls>
+  <source src="media/Louis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</details>
+
+<details>
+  <summary> *dobbie* </summary>
+- AKA Berit's special
+- it is a double Schere/fake Schere
+- ball carries has four options: 1. pass to teammate in the first paco; 2. run through the gap between opponent's center and winger; pass to teammate in the second paco; run outside opponent's winger
+
+</details>
+
+<details>
+  <summary> *rot-weiß*/*weiß-rot*  </summary>
+- weiß = links
+- rot = rechts
+
+</details>
+
+<details>
+  <summary> *drecksau* </summary>
+- After a scrum, first in the pod and center run the short side
+</details>
+
+
+<div class="tabset">
+### Defense
+#### Position on the field
+<details>
+  <summary><b> Setup for Defense </b></summary>
+  
+When defending, our team should a straight line across the field. All seven players should stand side by side with no gaps between them. This way, you cover the entire width of the field and make it harder for the other team to break through. As the other team attacks, you move up together in your line, staying close to each other and communicating to make sure no one slips through. The goal is to keep the attackers in front of you, block their progress, and try to force a mistake so you can win the ball back.
+
+![](img/position_defense.png)
+</details>
+		
+<details>
+  <summary><b> Basics of Defense </b></summary>
+
+Most players should target the inside shoulder:
+In defense, aiming for the inside shoulder of the ball carrier helps guide them toward the sideline, limiting their options and making it easier to tackle or force them out of play. This also prevents the attacker from cutting back inside, which could break the defensive line.
+		
+But the wing should target the outside shoulder:
+By focusing on the outside shoulder, the winger can guide the attacker back towards the center of the field, where there are more defenders to help make the tackle. This approach also reduces the risk of the attacker breaking free along the wing, which is often the fastest route to the try line.
+
+		  ![](img/defense_shoulder_target.png)
+</details>
+		
+#### Calls in defense
+<details>
+  <summary> *numbers* </summary>
+			- this is a rushed defense bla bla bla
+			![](img/defense_numbers.png)
+</details>
+
+<details>
+  <summary> *shift* </summary>
+			- this is the slide defense bla bla
+			![](img/defense_shift.png)
+</details>
+
+<details>
+  <summary> *cluster* </summary>
+			- this is the slide defense bla bla
+			![](img/defense_shift.png)
+</details>
+
+#### Tackling
+
+Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=2">How to Rugby Tackle</a> (6:45 minutes) for a quick 101 guide to tackling.
+<div> &nbsp; <!--this is a space--></div>
+<center>
+<a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6-6nPraxJzA&index=2">
+<img src="img/how_to_tackle.png" width="75%" height="75%">
+</a>
+</center>
+ 
+<!--embed it here and add the description-->
+			
+</div>
+
+<div class="tabset">
+### Kick-offs
+#### We are kickin'
+
+</details>
+		
+<details>
+  <summary><b> Setup for a Kick-off </b></summary>
+  
+<!--picture showing the set up-->
+
+- 4 players on the side of a kick call 
+  
+</details>
+
+<details>
+  <summary><b> Calls </b></summary>
+
+- *cover (rot/weiß)*: deep kick
+- *robber (rot/weiß)*: short kick
+
+So: If kicker calls *robber rot*, the expected result is a short kick to the right. If the kicker calls *cover rot*, the expected result is a deep kick to the right
+	
+</details>
+
+
+#### We are receiving the kick
+
+<details>
+  <summary><b> Setup for Receiving a Kick-off </b></summary>
+  
+		![](img/Pasted image 20240828130523.png)
+</details>
+
+<details>
+  <summary><b> You caught the ball now what? </b></summary>
+  
+<!--text explaining our strategies on what to do when players in all positions receive the ball-->
+  
+</details>
+
+</div>
+
+### Line-outs
+
+### Scrum-downs
+
+### Penalties
+
+
+## IV. Strategies for special cases
+![](img/under_construction.png)
+<!--make the under construction picture appear smaller-->
+<!--what to do if we have a fast or strong team; sweeper or not; etc etc etc-->
+<!--add as a picture "signature" with "St. Gallen 2024"-->
+
+## V. Glossary 
+<!-- page/table for all terminology/calls/etc -->
+
+
+
+
