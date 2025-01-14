@@ -18,11 +18,7 @@ output:
   - [WARNING] Could not fetch resource styles.css
   - [WARNING] Div at frc-guideline-7s.knit.md line 107 column 1 unclosed at frc-guideline-7s.knit.md line 321 column 1, closing implicitly.
 * find the comments everywhere!
-* find out how to host this in github pages  https://pages.github.com/
-* find out how to password protect it (one page with a picture of the players in front of the door wiht angry faces "say the mighty password or you shall not pass", when the password is correct, a similar picture but with the open door and friendly faces saying "that was correct! Dig right in" where you can click and go to the guidelines)
-* videos in tactic board for all calls
-* videos online for some of the calls
-* re-do pictures (setup, 2-2-, 3-1) with bigger text and reduce web scale
+* password page: one page with a picture of the players in front of the door wiht angry faces "say the mighty password or you shall not pass", when the password is correct, a similar picture but with the open door and friendly faces saying "that was correct! Dig right in" where you can click and go to the guidelines)
 * in the special cases: more "advanced" instructions such as "what to do if the ball rolls into our try line and you can reach it
 * add a tab for rucking in the defense
 * anna's guide text onto the html
@@ -39,6 +35,7 @@ output:
 * for github pages: https://github.com/hackclub/ai-safety-dance
 
 -->
+
 
 ![](img/team_placeholder.jpg)
 
@@ -57,17 +54,9 @@ Dynamite BOOM!!!!!
 ## II. Laws 
 ### Simplified guide
 
-Here is a simplified guide with some basic information created by one of our teammates:
-
-<object
-type="application/pdf"
-data= "img/How_to_rugby.pdf"
-width="800"
-height="300"
->
+New to rugby? Start by reading this <a href="media/How_to_rugby.pdf" target="_blank">simplified guide</a> with some basic information created by Anna.
+ 
 </object>
-
-<div> &nbsp; <!--this is a space--></div>
 
 ### Intro to 7s
 
@@ -113,15 +102,15 @@ In the app, among other cool resources, you can find a list of all <b>rugby laws
 In this section, we’ll outline our team's basic structure and strategies, covering crucial aspects such as defense, attack, lineouts, kick-offs, and penalties. Each area will be discussed in detail to ensure everyone knows their role and how we approach different game scenarios. At the end of this section, you’ll find a table of contents with key terminology and a list of common calls used during matches.
 
 
-
-### Offense
+### Offense {.tabset}
 #### Position on the field
 
 <details>
   <summary><b> Setup for Offense </b></summary>
 
 When attacking, players should stand in a "V" shape formation and try to maximize space in the field to stretch the defense and to help the team find or create gaps.
-  ![](img/position_attack.png)
+
+![](img/position_attack.png)
 </details>
 
 
@@ -204,7 +193,6 @@ When attacking, players should stand in a "V" shape formation and try to maximiz
 - After a scrum, first in the pod and center run the short side
 </details>
 
-
 <div class="tabset">
 ### Defense
 #### Position on the field
@@ -225,27 +213,28 @@ In defense, aiming for the inside shoulder of the ball carrier helps guide them 
 But the wing should target the outside shoulder:
 By focusing on the outside shoulder, the winger can guide the attacker back towards the center of the field, where there are more defenders to help make the tackle. This approach also reduces the risk of the attacker breaking free along the wing, which is often the fastest route to the try line.
 
-		  ![](img/defense_shoulder_target.png)
+![](img/defense_shoulder_target.png)
 </details>
 		
 #### Calls in defense
 <details>
   <summary> *numbers* </summary>
-			- this is a rushed defense bla bla bla
-			![](img/defense_numbers.png)
+- rushed for situations when there is no overload
+![](img/defense_numbers.png)
 </details>
 
 <details>
   <summary> *shift* </summary>
-			- this is the slide defense bla bla
-			![](img/defense_shift.png)
+- for situations when there is overload
+
+![](img/defense_shift.png)
+
+When shifting, we defend in a cluster:
+
+![](img/defense_cluster.png)
+			
 </details>
 
-<details>
-  <summary> *cluster* </summary>
-			- this is the slide defense bla bla
-			![](img/defense_shift.png)
-</details>
 
 #### Tackling
 
@@ -262,54 +251,9 @@ Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6
 </div>
 
 <div class="tabset">
-### Kick-offs
-#### We are kickin'
+### Kick-offs, Line-outs, Scrum-downs, Penalties
 
-</details>
-		
-<details>
-  <summary><b> Setup for a Kick-off </b></summary>
-  
-<!--picture showing the set up-->
-
-- 4 players on the side of a kick call 
-  
-</details>
-
-<details>
-  <summary><b> Calls </b></summary>
-
-- *cover (rot/weiß)*: deep kick
-- *robber (rot/weiß)*: short kick
-
-So: If kicker calls *robber rot*, the expected result is a short kick to the right. If the kicker calls *cover rot*, the expected result is a deep kick to the right
-	
-</details>
-
-
-#### We are receiving the kick
-
-<details>
-  <summary><b> Setup for Receiving a Kick-off </b></summary>
-  
-		![](img/Pasted image 20240828130523.png)
-</details>
-
-<details>
-  <summary><b> You caught the ball now what? </b></summary>
-  
-<!--text explaining our strategies on what to do when players in all positions receive the ball-->
-  
-</details>
-
-</div>
-
-### Line-outs
-
-### Scrum-downs
-
-### Penalties
-
+![](img/under_construction.png)
 
 ## IV. Strategies for special cases
 ![](img/under_construction.png)
