@@ -259,8 +259,15 @@ Watch <a href="https://www.youtube.com/watch?v=seQvXqK8FUk&list=TLPQMDMwOTIwMjQ6
 ## V. Glossary 
 <!-- page/table for all terminology/calls/etc -->
 
-## V. Tournment Orga Guideline
+## VI. Orga Schtuff
+This is not guideline-relevant and will be moved to our official website once we create a members-only restrictive space.
+
+### Tournment Orga Guideline
 
 Are you responsible for organizing the next tournment? Here is the <a href="media/tournment_orga.html" target="_blank">guidelines for the tournment organization</a>. Thanks for doing it!
+
+### Team Meeting Protocols
+
+<a href="media/FRC_Team_Meeting_13.01.2025.pdf" target="_blank">FRC Women*'s Team Meeting 13.01.2025</a>
 
 
