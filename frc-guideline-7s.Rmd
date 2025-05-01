@@ -40,15 +40,14 @@ output:
 ![](img/team_placeholder.jpg)
 
 
-## I. Intro: How to use this document
+## I. Intro: How to use this page
 
 Well, hello, you absolutely gorgeous and fierce rugger from the single best rugby team in the world. 
 
-This is the Freiburg Women*'s team 7s Guidelines. This document is designed to help you understand the essential aspects of our game, from the basic laws to our specific strategies. Enjoy!
-
-Obligatory P.S.: This document is designed for internal use so it shouldn't be shared without permission.
+This is the Freiburg Women*'s team 7s Guidelines. This page exists to help you understand the essential aspects of our game, from the basic laws to our specific strategies. It's for internal use only so it shouldn't be shared with non-club members without permission. Enjoy!
 
 <div class="tabset">
+
 ## II. Laws 
 ### Simplified guide
 
